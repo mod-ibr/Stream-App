@@ -1,0 +1,62 @@
+{
+  "previous": "Some URL for previous page",
+  "next": "Some URL for next page",
+  "results": [
+    {
+      "SI": 1,
+      "name": "Cassy Naples",
+      "logo": "assets/logo.png",
+      "Group": "Cassy Naples",
+      "Status": true,
+      "Action": true
+    },
+    {
+      "SI": 2,
+      "name": "Vicenta Borror",
+      "logo": "assets/logo.png",
+      "Group": "Vicenta Borror",
+      "Status": false,
+      "Action": true
+    },
+    {
+      "SI": 3,
+      "name": "Neoma Pua",
+      "logo": "assets/logo.png",
+      "Group": "Neoma Pua",
+      "Status": true,
+      "Action": false
+    },
+    {
+      "SI": 4,
+      "name": "Maia Brier",
+      "logo": "assets/logo.png",
+      "Group":"Maia Brier",
+      "Status": false,
+      "Action": true
+    },
+    {
+      "SI": 5,
+      "name": "Cassy Naples",
+      "logo": "assets/logo.png",
+      "Group": "Cassy Naples",
+      "Status": true,
+      "Action": true
+    },
+    {
+      "SI": 6,
+      "name": "Vicenta Borror",
+      "logo": "assets/logo.png",
+      "Group": "Vicenta Borror",
+      "Status": false,
+      "Action": true
+    },
+    {
+      "SI": 7,
+      "name": "Neoma Pua",
+      "logo": "assets/logo.png",
+      "Group": "Neoma Pua",
+      "Status": true,
+      "Action": false
+    }
+  ]
+}
