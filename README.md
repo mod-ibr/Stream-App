@@ -1,4 +1,4 @@
-# praum_project_web_app
+# Stream App
 
 A new Flutter project.
 
