@@ -1,16 +1,7 @@
 # Stream App
 
-A new Flutter project.
 
-## Getting Started
+![StreamAppMobile](https://user-images.githubusercontent.com/81623956/115834969-14322b00-a416-11eb-9237-f0ad6877cee7.jpg)
+![StreamAppWep](https://user-images.githubusercontent.com/81623956/115834980-15fbee80-a416-11eb-830c-2977ee8e8206.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
